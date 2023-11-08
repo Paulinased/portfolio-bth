@@ -5,7 +5,7 @@ Description: This is our index page.
 
 Om mig
 ==========================
-![En bild på mig](../assets/img/Jag.jpg "Paulina")
+![En bild på mig](image/Jag.jpg "Paulina")
 
 Mitt namn är Paulina och jag bor utanför Olofström. På vinterhalvåret så håller jag gärna till uppe i Åre där jag även pluggar sista året på systemvetenskapsprogrammet på Mittuniversitetet.
 

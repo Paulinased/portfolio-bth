@@ -30,6 +30,7 @@ body {
 
 .main {
     flex: 1 0 auto;
+    margin: 32px;
 }
 
 .header, .footer {
@@ -41,12 +42,19 @@ body {
 .header, .site-header {
     display: flex;
     justify-content: space-between;
+    background-color: #ffe0d4;
 }
 
 /* Title */
 
 .title, .logo {
-    padding: 3em 3em 3em 0;
+    padding: 2em 3em 1em 0;
+    width: 250px;
+    margin-left: 32px;
+}
+
+.title {
+    margin-top: 32px;
 }
 
 @media (max-width: 767px) {
@@ -75,6 +83,7 @@ body {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #222;
+    background-color: #afd9ae;
 }
 
 .footer a {
@@ -106,6 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 
 img {
     max-width: 100%;
+    width: 200px;
 }
 
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
