@@ -1,0 +1,52 @@
+/* Main */
+
+.main {
+    flex: 1 0 auto;
+    margin: 32px;
+    max-width: 80%;
+}
+
+/* Title */
+
+.title, .logo {
+    padding: 2em 3em 1em 0;
+    width: 250px;
+    margin-left: 32px;
+}
+
+.title {
+    margin-top: 32px;
+}
+
+.title h1 {
+    font-size: 52px;
+}
+
+.title * {
+    color: #111;
+    text-decoration: none;
+}
+
+.title p {
+    font-style: italic;
+}
+
+p, td, th, li, dd {
+    text-align: justify;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Lilita One', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    width: 200px;
+}
